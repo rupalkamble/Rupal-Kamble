@@ -105,7 +105,7 @@ HTML = """
               <p class="rounded-2xl bg-[#fff1da] px-5 py-4 font-semibold" style="color:#304a3b; font-size:16px;">Date of birth: 17 January 2004</p>
               <p class="rounded-2xl bg-[#e7f3e9] px-5 py-4 font-semibold" style="color:#304a3b; font-size:16px;">Age: 22</p>
             </div>
-            <p class="mt-8 max-w-2xl leading-relaxed" style="color:#3c5948; font-size:20px; line-height:1.6;">I love good food (Vegetarian), flowers, jungle safaris, exploring forests and watching movies.</p>
+            <p class="mt-8 max-w-2xl leading-relaxed" style="color:#3c5948; font-size:20px; line-height:1.6;">Major Intrests: Good food (Vegetarian), Flowers, Jungle Safaris, Exploring Forests and Watching Movies.</p>
           </div>
         </div>
       </section>
